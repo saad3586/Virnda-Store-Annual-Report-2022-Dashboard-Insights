@@ -1,4 +1,7 @@
 Objective:- Vrinda store wants to create an annual sales report for 2022. So that, Vrinda can understand their customers and grow more sales in 2023.
+
+<img width="1173" height="502" alt="Screenshot 2025-07-17 052133" src="https://github.com/user-attachments/assets/ddf8022b-d7da-4fe0-8304-67758a93a4b9" />
+
 📊 Virnda Store Annual Report 2022 – Dashboard Insights
 
 Designed and developed an interactive Excel dashboard to visualize annual performance metrics for Virnda Store. Key highlights:
